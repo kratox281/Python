@@ -6,3 +6,15 @@
 // division con enteros
 % obtencion del resto
 
+strip limpia la cadena
+lstrip limpia la cadena por la izquierda
+rstrip limpia la cadena por la derecha
+isalnum() comprueba si toda la cadena son caracteres letras o numeros
+isnumeric()no hay mucho que decir
+isalpha() si son letras
+
+Las fstrings son strings que contienen interpolacion de escritura
+Se sustituyen partes de la cadena por variables
+Hay que escribir la f antes de la cadena
+f'Me llamo {name}, tengo {age} años y una fortuna de {fortune} millones 
+
