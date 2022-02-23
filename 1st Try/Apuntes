@@ -18,3 +18,7 @@ Se sustituyen partes de la cadena por variables
 Hay que escribir la f antes de la cadena
 f'Me llamo {name}, tengo {age} años y una fortuna de {fortune} millones 
 
+Para los bucles for{
+    for "variables num" ("inicio","final","incremento")
+}
+
